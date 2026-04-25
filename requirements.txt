@@ -5,4 +5,3 @@ pytest
 pytest-cov
 locust
 httpx
-aiosqlite
