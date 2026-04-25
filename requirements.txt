@@ -5,3 +5,5 @@ pytest
 pytest-cov
 locust
 httpx
+playwright
+pytest-playwright
